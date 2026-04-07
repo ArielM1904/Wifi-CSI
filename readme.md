@@ -107,7 +107,7 @@ Proyecto/
 
 ```bash
 git clone https://github.com/ArielM1904/Wifi-CSI
-cd Proyecto
+cd Wifi-CSI
 
 python -m venv venv
 source venv/bin/activate
